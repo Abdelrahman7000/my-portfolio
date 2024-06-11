@@ -2,12 +2,12 @@ Hello there,
 
 I am Abdelrahman Shaban.
 
-I am a fresh graduate with a high academic record (ranked third) and a GPA of 3.7. My major is in Management Information Systems. I have done many projects regarding ETL pipelines, Data Visualization, Web scraping using Beautifulsoup, and simple ELT using dbt (data built tool).
+I am a fresh graduate with a high academic record (ranked third). My major was in Management Information Systems. I have done many projects regarding ETL pipelines, Data Visualization, Web scraping using Beautifulsoup, and simple ELT using dbt (data built tool).
 
 ## Tools
-one of the most interesting tasks in the data projects is to visualize your findings. I use Tableau for this:
+one of the most interesting tasks in the data projects is to visualize your findings. For this, I use:
 
-![download (1)](https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/e805de3e-1447-45b8-ad8c-e4c8ea63711d)
+![tableabju](https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/29db2d58-72df-49a1-91d4-db0d1b5a8bfd)
 
 This is a sample of what I used to do:
 
