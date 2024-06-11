@@ -1,6 +1,6 @@
 Hello there,
 
-I am Abdelrahman Shaban.
+I am <b>Abdelrahman Shaban</b>.
 
 I am a fresh graduate with a high academic record (ranked third). My major was in Management Information Systems. I have done many projects regarding ETL pipelines, Data Visualization, Web scraping using Beautifulsoup, and simple ELT using dbt (data built tool).
 
