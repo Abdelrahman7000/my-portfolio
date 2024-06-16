@@ -137,3 +137,29 @@ For Orchestrating my ETL pipeline, I have basic skills in using:
 
 ![download (2)](https://github.com/Abdelrahman7000/LeetCode/assets/61333407/751e7da4-7810-4e5a-af93-1ad78bfe7499)
 
+
+## My projects
+<b>ETL for E-commerce data</b>
+ * Designed and implemented data extraction processes from various sources into PostgreSQL staging tables for
+data cleansing and transformation.
+* Utilized Docker containers for creating isolated environments of PostgreSQL and Airflow.
+* Orchestrated data workflows and scheduling tasks with Airflow, ensuring timely execution and monitoring of
+ETL processes.
+* Implemented transformations and business logic in Python using pandas to prepare data for loading into Big-
+Query, aligning with the requirements of the star schema model.
+* Loaded cleansed and transformed data into BigQuery data warehouse.
+* Designed Tableau dashboards for visualizing my insights derived from the data.
+
+<b>Time-Series-Employment-Analysis-of-NAICS</b>
+ * Analyzed The North American Industry Classification System which is an industry classification system devel-
+oped by the statistical agencies of Canada. The data covers the number of employees every month for many
+sectors and industries.
+ * Performed data preprocessing and data analysis techniques to extract insights from data.
+ * Used EDA to answer questions related to the Business.
+
+<b>Transforamation project using dbt and Google BigQuery</b>
+ * In this project, I used the data build tool (dbt Cloud) with Google BigQuery to transform some data into an
+aggregated format using some series of transformation models.
+
+<b>Customer Churn Rate</b>
+ * Creating a visual story on Tableau, which measures the churn rate of the customers.
