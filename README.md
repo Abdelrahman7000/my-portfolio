@@ -9,10 +9,10 @@ one of the most interesting tasks in the data projects is to visualize your find
 
 ![tableabju](https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/29db2d58-72df-49a1-91d4-db0d1b5a8bfd)
 
+This is a sample of what I used to do:
+
 ![viz](https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/9d5678bf-877a-445c-a5fe-8fb5dd3be1f3)
 
-
-This is a sample of what I used to do:
 
 ![Screenshot from 2024-06-11 17-51-06](https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/795dcebe-0d56-4ca3-b9a5-a887867dfea3)
 I know what you're thinking, where can you find more interactive samples of my dashboards and charts?
