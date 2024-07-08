@@ -2,7 +2,14 @@ Hello there,
 
 I am <b>Abdelrahman Shaban</b>.
 
-I am a fresh graduate with a high academic record (ranked third). My major was in Management Information Systems. I have done many projects regarding ETL pipelines, Data Visualization, Web scraping using Beautifulsoup, and simple ELT using dbt (data built tool).
+I am a fresh graduate with a high academic record (ranked third). My major was Management Information Systems.
+I have an Associate Data Engineer certificate from DataCamp.
+
+<img width="300" alt="DE Associate - Facebook - Post" src="https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/8a24406c-efe9-495a-b522-ac89ce44026b">
+
+
+
+ I have done many projects regarding ETL pipelines, Data Visualization, Web scraping using Beautifulsoup, and simple ELT using dbt (data built tool).
 
 ## Tools
 one of the most interesting tasks in the data projects is to visualize your findings. For this, I use:
