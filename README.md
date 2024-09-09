@@ -12,11 +12,11 @@ I have an Associate Data Engineer certificate from DataCamp.
  I have done many projects regarding ETL pipelines, Data Visualization, Web scraping using Beautifulsoup, and simple ELT using dbt (data built tool).
 
 ## Tools
-In the early stages of any data pipeline (e.g. ETL and ELT), I leverage Python scripts for extracting and transforming data from diverse sources. To streamline and enhance the extraction process, I also utilize:
+* In the early stages of any data pipeline (e.g. ETL and ELT), I leverage Python scripts for extracting and transforming data from diverse sources. To streamline and enhance the extraction process, Additionally, I employ Airbyte to streamline the extraction process:
 
 <img width="500" alt="Airbyte" src="https://github.com/user-attachments/assets/aeabb0ce-ca2c-4b05-84f2-2c08751d9254">
 
-Also, SQL is my favorite tool to transform, analyze, and query the data. take a look at the following example for my SQL code:
+* Also, SQL is my favorite tool to transform, analyze, and query data. take a look at the following example for my SQL code:
 
         with cte as (
           SELECT ticker,max(open) highest_open
@@ -129,16 +129,19 @@ And here I wrote some tests and documentation:
             description: This model joins regions, nations, and customers tables into one view. 
               
 
-After doing our Transformations, and passing code reviews, I usually materialize the final model into:
+* After doing our Transformations, and passing code reviews, I usually materialize the final model into:
 
 <img width="500" alt="Google BigQuery" src="https://github.com/user-attachments/assets/6b54d820-2515-4f38-abc2-cb78761fa2f6">
 
 
-For Orchestrating my ETL pipeline, I have basic skills in using:
+* For Orchestrating my ETL pipeline, I have basic skills in using:
 
 <img width="500" alt="Google BigQuery" src="https://github.com/Abdelrahman7000/LeetCode/assets/61333407/751e7da4-7810-4e5a-af93-1ad78bfe7499">
 
-one of the most interesting tasks in the data projects is to visualize your findings. For this, I use:
+
+
+
+* One of the most interesting tasks in the data projects is to visualize your findings. For this, I use:
 
 <img width="500" alt="Google BigQuery" src="https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/29db2d58-72df-49a1-91d4-db0d1b5a8bfd">
 
