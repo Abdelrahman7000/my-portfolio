@@ -12,19 +12,9 @@ I have an Associate Data Engineer certificate from DataCamp.
  I have done many projects regarding ETL pipelines, Data Visualization, Web scraping using Beautifulsoup, and simple ELT using dbt (data built tool).
 
 ## Tools
-one of the most interesting tasks in the data projects is to visualize your findings. For this, I use:
+In the early stages of any data pipeline (e.g. ETL and ELT), I leverage Python scripts for extracting and transforming data from diverse sources. To streamline and enhance the extraction process, I also utilize:
 
-![tableabju](https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/29db2d58-72df-49a1-91d4-db0d1b5a8bfd)
-
-This is a sample of what I used to do:
-
-![viz](https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/9d5678bf-877a-445c-a5fe-8fb5dd3be1f3)
-
-
-![Screenshot from 2024-06-11 17-51-06](https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/795dcebe-0d56-4ca3-b9a5-a887867dfea3)
-I know what you're thinking, where can you find more interactive samples of my dashboards and charts?
-
-<a href='https://public.tableau.com/app/profile/abdelrahman.shaban/vizzes'>Just Click Here.</a>
+<img width="500" alt="Airbyte" src="https://github.com/user-attachments/assets/aeabb0ce-ca2c-4b05-84f2-2c08751d9254">
 
 Also, SQL is my favorite tool to transform, analyze, and query the data. take a look at the following example for my SQL code:
 
@@ -65,7 +55,7 @@ Also, SQL is my favorite tool to transform, analyze, and query the data. take a 
 
 I used SQL to do transformations on the data as part of an ELT process by:
 
-![dbt](https://github.com/Abdelrahman7000/LeetCode/assets/61333407/8ea8cd6f-2473-4afb-8946-f9e4da3bbcf7)
+<img width="500" alt="DBT" src="https://github.com/Abdelrahman7000/LeetCode/assets/61333407/8ea8cd6f-2473-4afb-8946-f9e4da3bbcf7">
 
 I just started learning about dbt, and I began to do basic projects with it. This is an example of my code:
 
@@ -141,18 +131,42 @@ And here I wrote some tests and documentation:
 
 After doing our Transformations, and passing code reviews, I usually materialize the final model into:
 
-![1_lAKDjzTTkKu9fbilA0LRLQ](https://github.com/Abdelrahman7000/LeetCode/assets/61333407/b6560ec2-4e39-4202-a163-0b32aca9dcd4)
+<img width="500" alt="Google BigQuery" src="https://github.com/user-attachments/assets/6b54d820-2515-4f38-abc2-cb78761fa2f6">
+
 
 For Orchestrating my ETL pipeline, I have basic skills in using:
 
-![download (2)](https://github.com/Abdelrahman7000/LeetCode/assets/61333407/751e7da4-7810-4e5a-af93-1ad78bfe7499)
+<img width="500" alt="Google BigQuery" src="https://github.com/Abdelrahman7000/LeetCode/assets/61333407/751e7da4-7810-4e5a-af93-1ad78bfe7499">
+
+one of the most interesting tasks in the data projects is to visualize your findings. For this, I use:
+
+<img width="500" alt="Google BigQuery" src="https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/29db2d58-72df-49a1-91d4-db0d1b5a8bfd">
+
+
+This is a sample of what I used to do:
+
+![viz](https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/9d5678bf-877a-445c-a5fe-8fb5dd3be1f3)
+
+
+![Screenshot from 2024-06-11 17-51-06](https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/795dcebe-0d56-4ca3-b9a5-a887867dfea3)
+I know what you're thinking, where can you find more interactive samples of my dashboards and charts?
+
+<a href='https://public.tableau.com/app/profile/abdelrahman.shaban/vizzes'>Just Click Here.</a>
 
 
 ## My projects
+<b>Sales analytics using dbt</b>
+ * Extracted the data from SQL Server and loaded it into PostgreSQL using Airbyte.
+ * Scheduled the extraction process with Cron.
+ * Used EDA to answer questions related to the Business.
+ * Utilized Docker containers to create isolated environments of PostgreSQL and Airbyte.
+ * Transformed the loaded data using DBT and built a star schema model.
+ * Visualized the final results with Tableau.
+
 <b>ETL for E-commerce data</b>
  * Designed and implemented data extraction processes from various sources into PostgreSQL staging tables for
 data cleansing and transformation.
-* Utilized Docker containers for creating isolated environments of PostgreSQL and Airflow.
+* Utilized Docker containers to create isolated environments of PostgreSQL and Airflow.
 * Orchestrated data workflows and scheduling tasks with Airflow, ensuring timely execution and monitoring of
 ETL processes.
 * Implemented transformations and business logic in Python using pandas to prepare data for loading into Big-
