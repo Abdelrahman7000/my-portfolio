@@ -158,7 +158,7 @@ I know what you're thinking, where can you find more interactive samples of my d
 
 
 ## My projects
-<b>Sales analytics using dbt</b>
+<b>Sales analytics using dbt</b> <a href='https://github.com/Abdelrahman7000/sales-analytics'>🔗</a>
  * Extracted the data from SQL Server and loaded it into PostgreSQL using Airbyte.
  * Scheduled the extraction process with Cron.
  * Used EDA to answer questions related to the Business.
@@ -166,7 +166,7 @@ I know what you're thinking, where can you find more interactive samples of my d
  * Transformed the loaded data using DBT and built a star schema model.
  * Visualized the final results with Tableau.
 
-<b>ETL for E-commerce data</b>
+<b>ETL for E-commerce data</b> <a href='https://github.com/Abdelrahman7000/bigquery-etl-pipeline'>🔗</a>
  * Designed and implemented data extraction processes from various sources into PostgreSQL staging tables for
 data cleansing and transformation.
 * Utilized Docker containers to create isolated environments of PostgreSQL and Airflow.
@@ -177,14 +177,14 @@ Query, aligning with the requirements of the star schema model.
 * Loaded cleansed and transformed data into BigQuery data warehouse.
 * Designed Tableau dashboards for visualizing my insights derived from the data.
 
-<b>Time-Series-Employment-Analysis-of-NAICS</b>
+<b>Time-Series-Employment-Analysis-of-NAICS</b> <a href='https://github.com/Abdelrahman7000/DataInsight_Assignment_Time-Series-Employment-Analysis-of-NAICS'>🔗</a>
  * Analyzed The North American Industry Classification System which is an industry classification system devel-
 oped by the statistical agencies of Canada. The data covers the number of employees every month for many
 sectors and industries.
  * Performed data preprocessing and data analysis techniques to extract insights from data.
  * Used EDA to answer questions related to the Business.
 
-<b>Transforamation project using dbt and Google BigQuery</b>
+<b>Transforamation project using dbt and Google BigQuery</b>  <a href='https://github.com/Abdelrahman7000/dbt_intro'>🔗</a>
  * In this project, I used the data build tool (dbt Cloud) with Google BigQuery to transform some data into an
 aggregated format using some series of transformation models.
 
