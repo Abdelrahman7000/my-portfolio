@@ -18,6 +18,9 @@ As part of my learning journey, I got the following certificates:
 
 <img width="500" alt="Airbyte" src="https://github.com/user-attachments/assets/aeabb0ce-ca2c-4b05-84f2-2c08751d9254">
 
+* Also, I use Alteryx for data preparation, transformation, analysis. This was a part of a project that I used alteryx as part of it:
+<img width="900" alt="DE Associate - Facebook - Post" src="https://github.com/user-attachments/assets/9b7aa7db-4ab1-41c1-9fb8-c2afb81bd3e8">
+
 * Also, SQL is my favorite tool to transform, analyze, and query data. take a look at the following example for my SQL code:
 
         with cte as (
