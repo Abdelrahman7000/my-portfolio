@@ -2,13 +2,13 @@ Hello there,
 
 I am <b>Abdelrahman Shaban</b>.
 
-I am a fresh graduate with a high academic record (ranked third). My major was Management Information Systems.
+I am junior data engineer with a high academic record (ranked third). My major was Management Information Systems.
 As part of my learning journey, I got the following certificates:
 
 <img width="200" alt="DE Associate - Facebook - Post" src="https://github.com/user-attachments/assets/27bd6999-2f0d-4374-8fbc-e6ab8f0247cc">
 <img width="200" alt="DE Associate - Facebook - Post" src="https://github.com/Abdelrahman7000/my-portfolio/assets/61333407/8a24406c-efe9-495a-b522-ac89ce44026b">
 <img width="200" alt="DE Associate - Facebook - Post" src="https://github.com/user-attachments/assets/57797d95-4fa5-4b69-81c0-0c49d2d42c1a">
-
+<img width="200" alt='DE Associate - Facebook - Post' src="https://github.com/user-attachments/assets/551c3e7e-ae61-44df-be6a-7d4b1e8521ce">
 
 
  I have done many projects regarding ETL pipelines, Data Visualization, Web scraping using Beautifulsoup, and simple ELT pipelines using dbt (data built tool).
