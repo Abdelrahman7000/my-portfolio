@@ -163,6 +163,14 @@ I know what you're thinking, where can you find more interactive samples of my d
 
 
 ## My projects
+<b> ETL pipeline for social media data</b> <a href='https://github.com/Abdelrahman7000/etl_for_social_media_data/tree/main'>🔗</a>
+ * Designed and implemented an end-to-end ETL pipeline to process and analyze social media data from JSON files.
+ * Used MinIO (object storage) as staging storage.
+ * Used PySpark to transform raw data and model it into a star schema.
+ * Utilized Docker containers for the infrastructure.
+ * Loaded the final transformed data into PostgreSQL as a data warehouse.
+ 
+
 <b>Sales analytics using dbt</b> <a href='https://github.com/Abdelrahman7000/sales-analytics'>🔗</a>
  * Extracted the data from SQL Server and loaded it into PostgreSQL using Airbyte.
  * Scheduled the extraction process with Cron.
