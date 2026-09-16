@@ -10,8 +10,9 @@ As part of my learning journey, I got the following certificates:
 <img width="200" alt="DE Associate - Facebook - Post" src="https://github.com/user-attachments/assets/57797d95-4fa5-4b69-81c0-0c49d2d42c1a">
 <img width="200" alt='DE Associate - Facebook - Post' src="https://github.com/user-attachments/assets/551c3e7e-ae61-44df-be6a-7d4b1e8521ce">
 <img width="200" alt="SnowPro Core Certification" src="https://github.com/user-attachments/assets/c38f1078-f0c5-4d4d-8d83-a44bb49a46e8" />
+<img width="200" alt="AWS Certified Data Engineer – Associate" src="https://github.com/user-attachments/assets/a56a5261-62e1-4aeb-ac45-828fb0b4ad20" />
 
- I have done many projects regarding ETL pipelines, Data Visualization, Web scraping using Beautifulsoup, and simple ELT pipelines using dbt (data built tool).
+ I have done many projects regarding ETL pipelines, Data Visualization, Web scraping using Beautifulsoup, and ELT pipelines using dbt (data built tool).
 
 ## Tools
 * In the early stages of any data pipeline (e.g. ETL and ELT), I leverage Python scripts for extracting and transforming data from diverse sources. To streamline and enhance the extraction process, Additionally, I employ Airbyte to streamline the extraction process:
@@ -136,12 +137,13 @@ And here I wrote some tests and documentation:
 
 * After doing our Transformations, and passing code reviews, I usually materialize the final model into:
 
-<img width="500" alt="Google BigQuery" src="https://github.com/user-attachments/assets/6b54d820-2515-4f38-abc2-cb78761fa2f6">
+<img width="500" alt="Snowflake" src="https://github.com/user-attachments/assets/1954277e-0b66-4eb3-a797-13dccfb09128">
 
+I use Snowflake as a data warehouse and also Snowflake's tasks, streams, and dynamic tables to build full data pipelines hosted via Snowflake.
 
-* For Orchestrating my ETL pipeline, I have basic skills in using:
+* For Orchestrating my ETL pipeline, I am using:
 
-<img width="500" alt="Google BigQuery" src="https://github.com/Abdelrahman7000/LeetCode/assets/61333407/751e7da4-7810-4e5a-af93-1ad78bfe7499">
+<img width="500" alt="Airflow" src="https://github.com/Abdelrahman7000/LeetCode/assets/61333407/751e7da4-7810-4e5a-af93-1ad78bfe7499">
 
 
 
